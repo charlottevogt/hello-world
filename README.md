@@ -1,1 +1,1 @@
-# hello-world
+# Hi, and welcome to my website. My name is Charlotte Vogt, I'm currently a PhD student in the group of Bert Weckhuysen at Utrecht University, finishing my last year as a VATAT Fellow at the Weizmann Institute in Israel. 
